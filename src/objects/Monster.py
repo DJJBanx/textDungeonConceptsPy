@@ -3,7 +3,7 @@
 # CS-172-60
 
 # Imports
-from src.util.colors import Colors
+from util.colors import Colors
 import abc
 import math
 

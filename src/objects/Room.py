@@ -1,4 +1,4 @@
-from src.util.colors import Colors
+from util.colors import Colors
 import abc
 import random
 

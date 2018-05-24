@@ -6,9 +6,9 @@
 import sys
 
 # Imports
-from src.objects import Hero, Monsters, Monster
-from src.objects.Monsters import *
-from src.util.colors import Colors
+from objects import Hero, Monsters, Monster
+from objects.Monsters import *
+from util.colors import Colors
 import random
 import time
 import math

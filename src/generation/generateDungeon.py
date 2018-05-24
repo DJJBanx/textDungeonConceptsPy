@@ -1,7 +1,7 @@
-from src.objects import Room, Rooms
-from src.objects.Maze import Maze
-from src.objects.Rooms import *
-from src.util.colors import Colors
+from objects import Room, Rooms
+from objects.Maze import Maze
+from objects.Rooms import *
+from util.colors import Colors
 import random
 
 cols = Colors()

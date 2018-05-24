@@ -3,8 +3,8 @@
 # CS-172-60
 
 # Imports
-from src.objects.Monster import Monster, BASIC_HEALTH_BLOCK
-from src.util.colors import Colors
+from objects.Monster import Monster, BASIC_HEALTH_BLOCK
+from util.colors import Colors
 import random
 
 # Random Seed
